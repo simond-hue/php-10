@@ -1,0 +1,23 @@
+﻿1. feladat:
+	hozd működőképes állapotba a kapott kódot
+	(adatbázis/tábla létrehozás/mintaadat/tesztelés)
+	
+2. feladat:
+	termékek tábla
+		név,
+		ár,
+		elérhetőség	("elérhető", "nincs raktáron")
+	a. feladatrész:	
+	>>> lista
+	>>> módosítás
+			(név, ár)
+	b. feladatrész:
+	>>> módosítás
+			(elérhetőség) CHECKBOX
+			
+3. feladat:
+	kiegészítjük a 'termékek' tábla új mezőkkel:
+		dátum		input type date
+		szín   		input type color
+		értékelés	input type range (1 és 10 közötti érték)
+	
